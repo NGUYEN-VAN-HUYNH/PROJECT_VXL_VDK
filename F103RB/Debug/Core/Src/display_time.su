@@ -1,0 +1,3 @@
+display_time.c:11:6:init_display	8	static
+display_time.c:19:6:display_lcd_r1	24	static
+display_time.c:26:6:display_lcd_r2	24	static

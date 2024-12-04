@@ -1,0 +1,6 @@
+light_traffic.c:9:6:clear_all_traffic_light	8	static
+light_traffic.c:19:6:traffic_light_1_run	16	static
+light_traffic.c:39:6:traffic_light_2_run	16	static
+light_traffic.c:59:6:traffic_light_3_run	16	static
+light_traffic.c:79:6:traffic_light_4_run	16	static
+light_traffic.c:100:6:init_traffic_light_time	24	static
